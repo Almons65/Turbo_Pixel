@@ -1,0 +1,35 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Definitions for Gradients -->
+  <defs>
+    <linearGradient id="turbo-gradient" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#22d3ee" /> <!-- Cyan-400 -->
+      <stop offset="100%" stop-color="#2563eb" /> <!-- Blue-600 -->
+    </linearGradient>
+    
+    <linearGradient id="glow" x1="256" y1="0" x2="256" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0"/>
+    </linearGradient>
+    
+    <filter id="blur-glow" x="-50" y="-50" width="612" height="612" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="20" result="effect1_foregroundBlur"/>
+    </filter>
+  </defs>
+
+  <!-- Background Glow -->
+  <circle cx="256" cy="256" r="240" fill="url(#turbo-gradient)" fill-opacity="0.3" filter="url(#blur-glow)" />
+
+  <!-- Main Container (Rounded Square-ish) -->
+  <rect x="32" y="32" width="448" height="448" rx="120" fill="#0f172a" stroke="url(#turbo-gradient)" stroke-width="24" />
+
+  <!-- Rocket Icon (Styled like Lucide Rocket) -->
+  <g transform="translate(106, 106) scale(0.6)">
+    <path d="M222.5 45C222.5 45 270 75 295 132.5C320 190 320 267.5 320 267.5L235 347.5L142.5 255C142.5 255 67.5 255 10 280C67.5 255 97.5 207.5 97.5 207.5L222.5 45Z" stroke="url(#turbo-gradient)" stroke-width="35" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M235 347.5L205 465L275 390" stroke="url(#turbo-gradient)" stroke-width="35" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M142.5 255L25 285L110 315" stroke="url(#turbo-gradient)" stroke-width="35" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="215" cy="180" r="25" fill="#22d3ee" />
+  </g>
+
+  <!-- Sparkle Accent -->
+  <path d="M380 100 L390 130 L420 140 L390 150 L380 180 L370 150 L340 140 L370 130 Z" fill="#facc15" />
+</svg>

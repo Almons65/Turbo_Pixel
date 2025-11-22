@@ -1,0 +1,11 @@
+C:\Users\adiso\OneDrive\Documents\Coding\Rust\WASM\rust-lib\target\debug\deps\libc-57e47ec1da2cd02b.d: C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\lib.rs C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\macros.rs C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\new\mod.rs C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\primitives.rs C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\windows\mod.rs C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\windows\gnu\mod.rs C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\types.rs
+
+C:\Users\adiso\OneDrive\Documents\Coding\Rust\WASM\rust-lib\target\debug\deps\liblibc-57e47ec1da2cd02b.rmeta: C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\lib.rs C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\macros.rs C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\new\mod.rs C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\primitives.rs C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\windows\mod.rs C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\windows\gnu\mod.rs C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\types.rs
+
+C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\lib.rs:
+C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\macros.rs:
+C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\new\mod.rs:
+C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\primitives.rs:
+C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\windows\mod.rs:
+C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\windows\gnu\mod.rs:
+C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\types.rs:
