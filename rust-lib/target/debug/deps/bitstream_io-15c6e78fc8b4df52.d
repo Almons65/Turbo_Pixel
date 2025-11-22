@@ -1,8 +1,0 @@
-C:\Users\adiso\OneDrive\Documents\Coding\Rust\WASM\rust-lib\target\debug\deps\bitstream_io-15c6e78fc8b4df52.d: C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\lib.rs C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\huffman.rs C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\read.rs C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\write.rs
-
-C:\Users\adiso\OneDrive\Documents\Coding\Rust\WASM\rust-lib\target\debug\deps\libbitstream_io-15c6e78fc8b4df52.rmeta: C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\lib.rs C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\huffman.rs C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\read.rs C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\write.rs
-
-C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\lib.rs:
-C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\huffman.rs:
-C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\read.rs:
-C:\Users\adiso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bitstream-io-4.9.0\src\write.rs:
